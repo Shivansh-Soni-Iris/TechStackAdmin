@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shivansh-Soni-Iris/TechStackAdmin/static/css/main.70cb3591.css",
-    "main.js": "/Shivansh-Soni-Iris/TechStackAdmin/static/js/main.d1f0c690.js",
-    "static/js/453.17859e0d.chunk.js": "/Shivansh-Soni-Iris/TechStackAdmin/static/js/453.17859e0d.chunk.js",
-    "index.html": "/Shivansh-Soni-Iris/TechStackAdmin/index.html",
-    "main.70cb3591.css.map": "/Shivansh-Soni-Iris/TechStackAdmin/static/css/main.70cb3591.css.map",
-    "main.d1f0c690.js.map": "/Shivansh-Soni-Iris/TechStackAdmin/static/js/main.d1f0c690.js.map",
-    "453.17859e0d.chunk.js.map": "/Shivansh-Soni-Iris/TechStackAdmin/static/js/453.17859e0d.chunk.js.map"
+    "main.css": "/TechStackAdmin/static/css/main.70cb3591.css",
+    "main.js": "/TechStackAdmin/static/js/main.a8e979f8.js",
+    "static/js/453.17859e0d.chunk.js": "/TechStackAdmin/static/js/453.17859e0d.chunk.js",
+    "index.html": "/TechStackAdmin/index.html",
+    "main.70cb3591.css.map": "/TechStackAdmin/static/css/main.70cb3591.css.map",
+    "main.a8e979f8.js.map": "/TechStackAdmin/static/js/main.a8e979f8.js.map",
+    "453.17859e0d.chunk.js.map": "/TechStackAdmin/static/js/453.17859e0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70cb3591.css",
-    "static/js/main.d1f0c690.js"
+    "static/js/main.a8e979f8.js"
   ]
 }
